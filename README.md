@@ -1,4 +1,4 @@
-# POC-DLL-Hijacking---Windows-Research-Lab
+# POC DLL Hijacking Windows Research Lab
 
 ## Advertencia 
 Proyecto exclusivamente para fines educativos.
